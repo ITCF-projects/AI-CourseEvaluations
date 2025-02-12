@@ -84,9 +84,7 @@ Modify the settings list as needed to match your requirements.
 
 ### Usage
 
-1. Enter data into the main SharePoint list under 'Free Text - Incoming' and set the status to 'New'.
-1. The Logic App or Azure Function will process the data every 5 minutes.
-1. Review the results in the main SharePoint list. The status will update based on the classification results.
+Check the [Wiki](https://github.com/ITCF-projects/AI-CourseEvaluations/wiki).
 
 ### Implementing the Azure Function for Text Classification
 
